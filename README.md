@@ -1,6 +1,6 @@
 # Data-Camp-Track-Update
 Enrolled in the Data Scientist with Python track. 
-Completed  courses include : 
+Completed the courses that include : 
 1) Introduction to Python, 
 2) Intermediate Python, 
 3) Data Manipulation with Pandas, 
