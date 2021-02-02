@@ -9,3 +9,6 @@ Completed the courses that include :
 6) Supervised Learning with Scikit-Learn, 
 7) Machine Learning for Time Series Data in Python
 8) Introduction to R
+9) Introduction to PySpark 
+10) Machine Learning with PySpark
+11) Introduction to Tableau 
